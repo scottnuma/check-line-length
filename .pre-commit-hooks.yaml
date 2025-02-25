@@ -1,0 +1,6 @@
+-   id: check-line-length
+    name: Check Line Length
+    description: Check that the line length is within the specified limit.
+    entry: check-line-length
+    language: golang
+    types: [text]
